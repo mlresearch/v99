@@ -1,0 +1,71 @@
+---
+booktitle: Proceedings of the Thirty-Second Conference on Learning Theory
+shortname: COLT
+year: '2019'
+volume: 99
+start: 2019-06-25
+end: 2019-06-28
+published: 2019-06-25
+url: http://proceedings.mlr.press
+sections:
+- name: preface
+  title: Preface
+- name: contributed
+  title: Contributed Papers
+- name: open
+  title: Open Problems
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: COLT-2019
+month: 0
+cycles: false
+bibtex_editor: Beygelzimer, Alina and Hsu, Daniel
+editor:
+- given: Alina
+  family: Beygelzimer
+- given: Daniel
+  family: Hsu
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Thirty-Second Conference on Learning Theory
+    Held in Phoenix, USA on 25-28 June 2019
+
+  Published as Volume 99 by the Proceedings of Machine Learning Research on 25 June 2019.
+
+  Volume Edited by:
+    Alina Beygelzimer
+    Daniel Hsu
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 25--28 Jun
+baseurl: "/v99"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v99
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Conference on Learning Theory
+  url: 
+  location: Phoenix, USA
+  dates:
+  - 2019-06-25
+  - 2019-06-26
+  - 2019-06-27
+  - 2019-06-28
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v99/colt19.bib
