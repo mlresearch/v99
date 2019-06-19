@@ -20,7 +20,7 @@ section: contributed
 title: Optimal Learning of Mallows Block Model
 layout: inproceedings
 series: Proceedings of Machine Learning Research
-id: buda-fekete19a
+id: busa-fekete19a
 month: 0
 tex_title: Optimal Learning of Mallows Block Model
 firstpage: 529
@@ -28,11 +28,11 @@ lastpage: 532
 page: 529-532
 order: 529
 cycles: false
-bibtex_author: Buda-Fekete, Robert and Fotakis, Dimitris and Sz\"{o}r\'enyi, Bal\'{a}zs
+bibtex_author: Busa-Fekete, Robert and Fotakis, Dimitris and Sz\"{o}r\'enyi, Bal\'{a}zs
   and Zampetakis, Manolis
 author:
 - given: Robert
-  family: Buda-Fekete
+  family: Busa-Fekete
 - given: Dimitris
   family: Fotakis
 - given: Balázs
@@ -50,7 +50,7 @@ issued:
   - 2019
   - 6
   - 25
-pdf: http://proceedings.mlr.press/v99/buda-fekete19a/buda-fekete19a.pdf
+pdf: http://proceedings.mlr.press/v99/busa-fekete19a/busa-fekete19a.pdf
 extras: []
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
