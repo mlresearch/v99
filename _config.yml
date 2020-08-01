@@ -7,6 +7,8 @@ start: 2019-06-25
 end: 2019-06-28
 published: 2019-06-25
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 sections:
 - name: preface
   title: Preface
